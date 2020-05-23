@@ -1,4 +1,5 @@
 # devCalc
+    - A simple calculator made using Kivy
 
 You need to have kivy installed in order to run this 
 This is how u can install kivy in ubuntu by running these codes in the terminal one by one :
